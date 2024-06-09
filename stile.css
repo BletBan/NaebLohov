@@ -1,0 +1,60 @@
+h1 {
+   font-size: 4cm;
+   font-family: sans-serif;
+   background-color: orange;
+   text-align: center;
+   color: #000;
+} 
+
+h2 {
+   font-size: 150%;
+   font-family: arial;
+   color: #993311;
+	background-color:#ffffff;
+}
+
+h3 {
+   margin-left: 30px;
+   font-size: 1cm;
+   font-family: arial;
+}
+
+P {
+   font-family: arial;
+   font-size: 0.7cm;
+}
+
+
+header {
+   top: 0px;  
+   color: #993311;
+}
+
+ol {
+	background-color:#ffffff;
+}
+
+footer {
+	background-color:#B54329;
+}
+
+footer p {
+	text-align: right;
+}
+
+A: link {
+   color: #FFF600;
+}
+
+A: visited {
+   color: #B8B200;
+}
+
+table caption {
+   font-size: 0.7cm;
+   font-family: arial;
+}
+
+table td {
+	text-align: center;
+}
